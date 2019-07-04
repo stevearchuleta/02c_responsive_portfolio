@@ -1,5 +1,5 @@
 # responsive_portfolio
-HW Assignment #2b (week 2)
+HW Assignment #2c (week 2)
 
 Recommended Assignment - That Portfolio Though
 
